@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Project&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
-| 벅스스타 |
-|----------------------|
-|<a href="https://bugs-star-web.vercel.app/home"><img src="https://github.com/yonghun16/bugs-star/blob/main/preview2.jpg?raw=true" width=825px /></a>|
-|<ul><li>벅스스타 - 회원 행동분석 프로그램</li><li>회원가입, 로그인, 프로필 수정</li><li>상품 등록, 조회, 수정, 삭제, 장바구니, 결제이력</li><li>로그수집, 로그분석, 사전집계, 맞춤형 추천메뉴</li><li>대쉬보드, 회원관리, 광고통계, 골든패스</li><li><a href="https://github.com/yonghun16/bugs-star"> Github page </a></li><li><!-- Next.js --><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <!-- Express.js --><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a> <!-- Redis --><a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a> <!-- MongoDB --><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a> <!-- ClickHouse --><a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=ClickHouse&logoColor=white" /></a> <!-- milvus --><a href="https://milvus.io/ko"><img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=Milvus&logoColor=white" /></a> <!-- Turborepo --><a href="https://turborepo.com/"><img src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat&logo=Turborepo&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a></li></ul>|
+
 
 
 | 판타지 샵 |
@@ -11,10 +8,6 @@
 |<a href="https://yonghun16.duckdns.org/fantasyshop"><img src="https://raw.githubusercontent.com/yonghun16/fantasy-shop/refs/heads/main/preview.webp" width=825px /></a>|
 |<ul><li>판타지 샵 - 쇼핑몰 만들기 프로젝트</li><li>회원가입, 로그인, 프로필수정(카카오 주소 API)</li><li>상품 등록, 조회, 수정, 삭제</li><li>장바구니, 결제이력, AI 도우미</li><li>Single-page, 반응형</li><li><a href="https://github.com/yonghun16/fantasy-shop"> Github page </a></li><li><!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a> <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a> <!-- Vite --><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <!-- Spring Boot --><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /></a> <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a> <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></li></ul>|
 
-| 워드서치 |
-|-----------------------|
-|<a href="https://elaborate-frangipane-337dd8.netlify.app/"><img src="https://raw.githubusercontent.com/yonghun16/wordsearch/refs/heads/main/app.png" width=825px /></a>|
-|<ul><li>워드 서치 - 격자판(grid) 속에 숨겨진 단어들을 찾아내는 퍼즐 게임</li><li>랜덤 격자 생성</li><li>단어 힌트 기능</li><li>테마 변경</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/wordsearch)</li><li><!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <!-- Netlify --><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a></li></ul>|
 
 | Travel Package Store |
 |-----------------------|
@@ -33,10 +26,21 @@
 
 
 <!--
+| 워드서치 |
+|-----------------------|
+|<a href="https://elaborate-frangipane-337dd8.netlify.app/"><img src="https://raw.githubusercontent.com/yonghun16/wordsearch/refs/heads/main/app.png" width=825px /></a>|
+|<ul><li>워드 서치 - 격자판(grid) 속에 숨겨진 단어들을 찾아내는 퍼즐 게임</li><li>랜덤 격자 생성</li><li>단어 힌트 기능</li><li>테마 변경</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/wordsearch)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a></li></ul>|
+
+| 벅스스타 |
+|----------------------|
+|<a href="https://bugs-star-web.vercel.app/home"><img src="https://github.com/yonghun16/bugs-star/blob/main/preview2.jpg?raw=true" width=825px /></a>|
+|<ul><li>벅스스타 - 회원 행동분석 프로그램</li><li>회원가입, 로그인, 프로필 수정</li><li>상품 등록, 조회, 수정, 삭제, 장바구니, 결제이력</li><li>로그수집, 로그분석, 사전집계, 맞춤형 추천메뉴</li><li>대쉬보드, 회원관리, 광고통계, 골든패스</li><li><a href="https://github.com/yonghun16/bugs-star"> Github page </a></li><li> <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a> <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a> <a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=ClickHouse&logoColor=white" /></a> <a href="https://milvus.io/ko"><img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=Milvus&logoColor=white" /></a> <a href="https://turborepo.com/"><img src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat&logo=Turborepo&logoColor=white" /></a> <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a></li></ul>|
+
 | Instargram Cover |
 |-----------------------|
 |<a href="https://insta33234.netlify.app/"><img src="https://github.com/yonghun16/instagram-cover/blob/main/preview.jpg" width=825px /></a>|
 |<ul><li>인스타그램 클론 App</li><li>캐로셀, 모달, 무한휠, PWA</li><li>Single-page, PWA</li><li>[Github page](https://github.com/yonghun16/instagram-cover)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a> <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=Styled%20Components&logoColor=white" /></a> <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a> <a href="https://web.dev/progressive-web-apps/"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" /></a> </li></ul>|
+
 
 | Crypto Tracker |
 |-----------------------|
