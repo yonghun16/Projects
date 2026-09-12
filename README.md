@@ -1,5 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Project&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+<!--
+
+| Maid Cafe Kiosk |
+|-----------------------|
+|<a href="https://maid-cafe-kiosk-frontend.vercel.app/"><img src="https://raw.githubusercontent.com/yonghun16/maid-cafe-kiosk/main/image%20asset/layout/desktop.png" width=825px /></a>|
+|<ul><li>Maid Cafe Kiosk - 웹 + 네이티브 앱을 한 백엔드로 함께 운영하는 무인 주문 키오스크 서비스</li><li>Next.js(App Router) + Express + MongoDB REST API, React Native(Expo) 네이티브 앱까지 하나의 백엔드로 통합</li><li>카테고리별 메뉴 조회 → 옵션 조합 장바구니 → 결제 수단 선택으로 이어지는 고객 주문 흐름 구현</li><li>드래그 순서 변경, SVG 판매 통계 대시보드를 갖춘 관리자 화면과 Web Push 실시간 새 주문 알림을 받는 주방 화면 분리 구현</li><li>Turborepo 모노레포로 웹/백엔드/모바일이 타입 계약(`packages/types`)을 공유</li><li>[Live Demo](https://maid-cafe-kiosk-frontend.vercel.app/) · [Github](https://github.com/yonghun16/maid-cafe-kiosk) · [Docs](https://yonghun16.github.io/maid-cafe-kiosk/)</li><li><a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a> <a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white" /></a> <a href="https://turborepo.com/"><img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=Turborepo&logoColor=white" /></a></li></ul>|
+
+-->
+
+
+| Bugs Star |
+|-----------------------|
+|<a href="https://bugs-star-web.vercel.app/"><img src="https://raw.githubusercontent.com/Bugs-Star/.github/main/profile/profileimgs/image.png" width=825px /></a>|
+|<ul><li>Bugs Star(벅스스타) - 사용자 행동 로그 기반 맞춤 추천 + 실시간 통계를 제공하는 카페 주문 시스템</li><li>행동 데이터 수집 → Log Worker → Recommendation Worker로 이어지는 데이터 파이프라인</li><li>매출·베스트셀러·Golden Path(구매 흐름) 등 운영 인사이트를 Admin Dashboard에 시각화</li><li>4인 팀 프로젝트(API/아키텍처, Admin·User 화면, 데이터 파이프라인 분담)</li><li>[User App](https://bugs-star-web.vercel.app/) · [Admin](https://bugs-star-admin.vercel.app/) · [Github](https://github.com/Bugs-Star)</li><li><a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /></a> <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" /></a> <a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" /></a> <a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=ClickHouse&logoColor=white" /></a> <a href="https://milvus.io/ko"><img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=Milvus&logoColor=white" /></a> <a href="https://turborepo.com/"><img src="https://img.shields.io/badge/Turborepo-FF1E56?style=flat&logo=Turborepo&logoColor=white" /></a></li></ul>|
+
+
 
 | Goban |
 |-----------------------|
@@ -27,7 +43,6 @@
 |-----------------------|
 |<a href="https://vanillajs-movie-app-flame.vercel.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>Vanilla JS Movie App</li><li>Component, Routing, and Store based on Vanilla JavaScript</li><li>loading Animation, Skeleton UI</li><li>API key hide</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/vanillajs-movie-app)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
-
 
 
 <!--
