@@ -1,5 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Projects&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+<!--
+
+| Bingo |
+|-----------------------|
+|<a href="https://bingo-lime-nine.vercel.app/"><img src="https://raw.githubusercontent.com/yonghun16/bingo/main/public/og-image.png" width=825px /></a>|
+|<ul><li>Bingo - 서버 없이, 카카오톡 링크 하나로 5명까지 함께 즐기는 실시간 멀티플레이어 빙고 게임</li><li>백엔드 서버 없이 Supabase Realtime(Broadcast + Presence) 하나로 참가자 동기화·턴 진행·동시우승 판정까지 구현</li><li>Presence 입장 시각 기반 자동 호스트 선출/승계, `turnSeq` 기반 경합 해결 등 서버 없는 분산 동기화 로직 직접 설계</li><li>3x3~7x7 가변 보드 크기, 게임 종료 전까지 보드 비공개(2단계 공개) 설계로 실제 빙고 규칙을 서버 없이 재현</li><li>카카오톡 공유 시 방장 닉네임·보드 크기가 반영된 og:image 카드를 Vercel Edge Middleware로 동적 생성, PWA 설치 지원</li><li>[Live Demo](https://bingo-lime-nine.vercel.app/) · [Github](https://github.com/yonghun16/bingo) · [Docs](https://yonghun16.github.io/bingo/)</li><li><a href="https://react.dev"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=Supabase&logoColor=white" /></a> <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
+
+| Germ Snap |
+|-----------------------|
+|<a href="https://github.com/yonghun16/GermSnap"><img src="https://raw.githubusercontent.com/yonghun16/GermSnap/main/store-assets/preview.jpg" width=825px /></a>|
+|<ul><li>Germ Snap - 손을 찍으면 AI가 세균을 띄워 주는 초등학교 보건교육용 손 씻기 앱</li><li>TFLite 2단계 파이프라인(손바닥 검출 → 21개 관절 추출)을 직접 구현해 100% 오프라인 동작</li><li>정지 이미지 한 장만 분석해 저사양 학교 태블릿에서도 빠르게 손 인식</li><li>Skia Canvas로 손 씻기 전엔 세균, 씻은 후엔 반짝이·칭찬 효과를 사진 위에 합성</li><li>캐릭터/현미경 세균 모드, 최대 4배 Pinch Zoom, 보건교사용 히든 버튼 지원</li><li>한국어·영어·일본어·중국어 UI 자동 전환, 인앱 손 씻기 영상 재생</li><li>[Github](https://github.com/yonghun16/GermSnap) · [Docs](https://yonghun16.github.io/GermSnap/)</li><li><a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" /></a> <a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://www.tensorflow.org/lite"><img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=TensorFlow&logoColor=white" /></a> <a href="https://shopify.github.io/react-native-skia"><img src="https://img.shields.io/badge/Skia-4285F4?style=flat&logo=Shopify&logoColor=white" /></a></li></ul>|
+
+-->
 
 | Maid Cafe Kiosk |
 |-----------------------|
@@ -146,4 +159,5 @@
 |--------|
 |<a href="https://yonghun16.github.io/besthorrorscenes.com/"><img src="https://raw.githubusercontent.com/yonghun16/besthorrorscenes.com/main/besthorrorscenes.com_front_page.png" width=49% /></a> <a href="https://yonghun16.github.io/education_app_ui/"><img src="https://raw.githubusercontent.com/yonghun16/education_app_ui/main/front_page.png" width=49% /></a> <a href="https://yonghun16.github.io/fashion-store_ui/"><img src="https://raw.githubusercontent.com/yonghun16/fashion-store_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/beauty-store_ui/"><img src="https://raw.githubusercontent.com/yonghun16/beauty-store_ui/main/design.jpg" width=49% /></a><a href="https://yonghun16.github.io/design-agency_ui/"><img src="https://raw.githubusercontent.com/yonghun16/design-agency_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/architect_studio_ui/"><img src="https://raw.githubusercontent.com/yonghun16/architect_studio_ui/main/design.png" width=49% /></a> <a href="https://yonghun16.github.io/pixies_poster/"><img src="https://github.com/yonghun16/pixies_poster/blob/main/design.jpg" width=49% /></a> <a href="https://yonghun16.github.io/concert_poster/"><img src="https://github.com/yonghun16/concert_poster/blob/main/design.jpg" width=49% /></a>|
 |<ul><li>Webpage, App UI Clone</li><li><a href="https://pugjs.org/"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-D75892?style=flat&logo=sass&logoColor=white" /></a> <a href="https://gulpjs.com/"><img src="https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=Gulp&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-636CFF?style=flat&logo=Vite&logoColor=white" /></a> </li></ul>|
+
 -->
